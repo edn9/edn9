@@ -1,6 +1,6 @@
 ## 👋 Hello, my name is Eduardo Brito
 
-🎯 Junior Full Stack | Bachelor of Information Systems Favenorte (2018)
+🎯 Dev Full Stack | Bachelor of Information Systems Favenorte (2018)
 
 Tech and innovation enthusiast. Reliable team player with fast learning abilities, constantly pursuing growth.
 
