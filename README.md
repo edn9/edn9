@@ -7,6 +7,6 @@ Tech and innovation enthusiast. Reliable team player with fast learning abilitie
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,firebase,git,linux," />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,firebase,git,linux,redux,azure" />
   </a>
 </p>
